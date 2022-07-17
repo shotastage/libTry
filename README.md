@@ -17,7 +17,7 @@ You can install it via Homebrew or installer script.
 
 **Shota Shimazu**
 
-- **Twitter: @shotastage**
+- **Twitter: [@shotastage](https://twitter.com/shotastage)**
 
 
 # License
