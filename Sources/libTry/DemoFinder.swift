@@ -16,7 +16,6 @@ open class DemoFinder {
         "*Sample",
         "*TestApp",
         "*Demo",
-
     ]
 
     func find() {

@@ -9,7 +9,6 @@ import Foundation
 
 
 class CommandSet {
-
     let buildSet = [
         "xcrun build etc...",
     ]
